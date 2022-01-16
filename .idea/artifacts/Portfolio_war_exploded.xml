@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Portfolio" />
+          <element id="module-output" name="Portfolia" />
         </element>
       </element>
       <element id="directory" name="META-INF">
